@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **fi.castagnola@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/filippo-castagnola/](https://www.linkedin.com/in/filippo-castagnola/)
-
 - ⚡ Fun fact **I studied in Greece for both middle and high school and have moved back to Italy for university!**
 
 <h3 align="left">Connect with me:</h3>
