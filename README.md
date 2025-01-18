@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Filippo</h1>
+<h1 align="center">Hi 👋, I'm Filippo from Italy</h1>
 - 🔭 I’m currently working on **Prince of Inertia**
 
 - 🌱 I’m currently learning **C**
@@ -7,7 +7,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/filippo-castagnola/](https://www.linkedin.com/in/filippo-castagnola/)
 
-- ⚡ Fun fact **I went on an Erasmus in Lanzarote, Spain**
+- ⚡ Fun fact **I studied in Greece for both middle and high school and have moved back to Italy for university!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
