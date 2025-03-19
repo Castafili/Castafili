@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Filippo from Italy</h1>
 - 🔭 I’m currently working on **Prince of Inertia**
 
-- 🌱 I’m currently learning **C and Java**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **fi.castagnola@gmail.com**
 
