@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filippo from Italy</h1>
-- 🔭 I’m currently working on **Prince of Inertia**
+- 🔭 I’m currently working on **Studying Web Development**
 
 - 🌱 I’m currently learning **Web Development**
 
