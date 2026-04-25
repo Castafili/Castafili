@@ -4,7 +4,9 @@ I'm a software engineer based in Italy who writes code that (usually) works on t
 
 ## What I'm building right now
 
-<!-- 🔨 **[Project Name]** - A full-stack app that does [specific thing]. Built with React, Node.js, and way too much coffee. -->
+## 🏎️ Current Project
+
+**[F1 Pit Stop Strategy Analysis](link)** - Thesis research analyzing how circuit characteristics affect the impact of pit stop timing on race results. Python, pandas, statistical modeling. *[Work in progress]*
 
 ## What I work with
 
