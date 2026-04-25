@@ -30,12 +30,3 @@ Still learning, still breaking things, still Googling "why doesn't this work" mo
 *Check out my pinned repos below to see what I've been working on* 👇
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Castafili&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Castafili&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castafili&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
