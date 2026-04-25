@@ -23,7 +23,7 @@ Still learning, still breaking things, still Googling "why doesn't this work" mo
 
 ## Let's connect
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/filippo-castagnola/)
+[![LinkedIn](https://www.linkedin.com/in/filippo-castagnola/)
 
 ---
 
