@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Filippo from Italy</h1>
-- 🔭 I’m currently working on **Studying Web Development**
 
 - 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **fi.castagnola@gmail.com**
-
-- ⚡ Fun fact **I studied in Greece for both middle and high school and have moved back to Italy for university!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
