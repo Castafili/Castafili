@@ -1,13 +1,34 @@
-<h1 align="center">Hi 👋, I'm Filippo from Italy</h1>
+# Hey, I'm Filippo 👋
 
-- 🌱 I’m currently learning **Web Development**
+I'm a software engineer based in Italy who writes code that (usually) works on the first try. Currently building full-stack projects and diving deep into whatever catches my interest that week.
 
-- 📫 How to reach me **fi.castagnola@gmail.com**
+## What I'm building right now
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/filippo-castagnola/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/filippo-castagnola/" height="30" width="40" /></a>
-</p>
+🔨 **[Project Name]** - A full-stack app that does [specific thing]. Built with React, Node.js, and way too much coffee.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+🔨 **[Another Project]** - [What it does and why it's cool]. Because [relatable problem] needed solving.
+
+*(Replace these with your actual projects once you pin them)*
+
+## What I work with
+
+**Languages:** Python, C, C#, JavaScript  
+[**Full-stack:** React, Node.js, Express, MongoDB/PostgreSQL]
+**Other stuff I've messed with:** Data analysis (pandas, numpy), basic cybersecurity tools, Linux environments
+
+Still learning, still breaking things, still Googling "why doesn't this work" more than I'd like to admit.
+
+## A bit about me
+
+- 🇮🇹 Based in Italy, grew up in Greece (fluent in Italian, Greek, and English)
+- 💼 Open to remote opportunities - junior roles, internships, or interesting projects
+- 🎯 Currently focused on becoming a better full-stack developer
+- 📧 Reach me at [fi.castagnola@gmail.com](mailto:fi.castagnola@gmail.com)
+
+## Let's connect
+
+[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/filippo-castagnola/)
+
+---
+
+*Check out my pinned repos below to see what I've been working on* 👇
