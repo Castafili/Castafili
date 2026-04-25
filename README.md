@@ -32,9 +32,9 @@ Still learning, still breaking things, still Googling "why doesn't this work" mo
   <a href="mailto:fi.castagnola@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_LINK">
+  <!-- <a href="YOUR_PORTFOLIO_LINK">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -49,30 +49,4 @@ Still learning, still breaking things, still Googling "why doesn't this work" mo
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castafili&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Castafili&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Castafili/f1-data-analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Castafili&repo=f1-data-analysis&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/Castafili/Progetto-Procedurale-24-25">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Castafili&repo=Progetto-Procedurale-24-25&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
-
-
-
 
