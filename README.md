@@ -1,4 +1,4 @@
-# <h1> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&duration=3000&pause=1000&color=F7F2EF&width=435&lines=Hey%2C+I'm+Filippo+%F0%9F%91%8B" alt="Typing SVG" /></a> </h1>
+# Hey, I'm Filippo 👋
 
 I'm a software engineer based in Italy who writes code that (usually) works on the first try. Currently building full-stack projects and diving deep into whatever catches my interest that week.
 
@@ -28,3 +28,14 @@ Still learning, still breaking things, still Googling "why doesn't this work" mo
 ---
 
 *Check out my pinned repos below to see what I've been working on* 👇
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Castafili&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Castafili&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Castafili&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
