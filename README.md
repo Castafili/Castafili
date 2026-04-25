@@ -1,4 +1,6 @@
-# Hey, I'm Filippo 👋
+# Hey, I'm Filippo 👋 <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Filippo+%F0%9F%91%8B;Software+Engineer+from+Italy;Building+Full-Stack+Projects;Always+Learning+Something+New" alt="Typing SVG" />
+</h1>
 
 I'm a software engineer based in Italy who writes code that (usually) works on the first try. Currently building full-stack projects and diving deep into whatever catches my interest that week.
 
