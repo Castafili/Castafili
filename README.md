@@ -24,7 +24,7 @@ Still learning, still breaking things, still Googling "why doesn't this work" mo
 ## Let's connect
 
 <a href="https://www.linkedin.com/in/filippo-castagnola/">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 ---
