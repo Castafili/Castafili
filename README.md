@@ -1,4 +1,5 @@
-# Hey, I'm Filippo 👋 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&duration=3400&pause=1000&color=F7EEEB&repeat=false&width=435&lines=Hey+I'm+Filippo+%F0%9F%91%8B)](https://git.io/typing-svg)
+# <h1 align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&duration=3400&pause=1000&color=F7EEEB&repeat=false&width=435&lines=Hey+I'm+Filippo+%F0%9F%91%8B)](https://git.io/typing-svg)
+</h1>
 
 I'm a software engineer based in Italy who writes code that (usually) works on the first try. Currently building full-stack projects and diving deep into whatever catches my interest that week.
 
