@@ -23,7 +23,7 @@ Still learning, still breaking things, still Googling "why doesn't this work" mo
 
 ## Let's connect
 
-<a href: "https://www.linkedin.com/in/filippo-castagnola/" />
+<a href="https://www.linkedin.com/in/filippo-castagnola/">LinkedIn<a/>
 
 ---
 
