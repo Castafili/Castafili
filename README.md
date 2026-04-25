@@ -6,7 +6,7 @@ I'm a software engineer based in Italy who writes code that (usually) works on t
 
 ## 🏎️ Current Project
 
-**[F1 Pit Stop Strategy Analysis]([link](https://github.com/Castafili/f1-data-analysis))** - Thesis research analyzing how circuit characteristics affect the impact of pit stop timing on race results. Python, pandas, statistical modeling. *[Work in progress]*
+**[F1 Pit Stop Strategy Analysis](https://github.com/Castafili/f1-data-analysis)** - Thesis research analyzing how circuit characteristics affect the impact of pit stop timing on race results. Python, pandas, statistical modeling. *[Work in progress]*
 
 ## What I work with
 
