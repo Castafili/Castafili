@@ -13,7 +13,7 @@ I'm a software engineer based in Italy who writes code that (usually) works on t
 ## What I work with
 
 **Languages:** Python, C, C#, JavaScript  
-[//]: # (**Full-stack:** React, Node.js, Express, MongoDB/PostgreSQL)
+%% **Full-stack:** React, Node.js, Express, MongoDB/PostgreSQL %%
 **Other stuff I've messed with:** Data analysis (pandas, numpy), basic cybersecurity tools, Linux environments
 
 Still learning, still breaking things, still Googling "why doesn't this work" more than I'd like to admit.
