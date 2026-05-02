@@ -23,7 +23,6 @@ Still learning, still breaking things, still Googling "why doesn't this work" mo
 - 🎯 Currently focused on becoming a better full-stack developer
 - 📧 Reach me at [fi.castagnola@gmail.com](mailto:fi.castagnola@gmail.com)
 
-## Let's connect
 
 ## 📫 Let's Connect
 
