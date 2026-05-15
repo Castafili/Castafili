@@ -18,7 +18,7 @@ Still learning, still breaking things, still Googling "why doesn't this work" mo
 
 ## Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-[![HTML](https://img.shields.io/badge/HTML-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+[![HTML](https://img.shields.io/badge/HTML-%2300599C.svg?style=for-the-badge&logo=html&logoColor=white)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 ![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)
 [![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](#)
