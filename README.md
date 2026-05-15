@@ -17,8 +17,8 @@ I'm a software engineer based in Italy who writes code that (usually) works on t
 Still learning, still breaking things, still Googling "why doesn't this work" more than I'd like to admit.
 
 ## Stack
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+[![HTML](https://img.shields.io/badge/HTML-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 ![Jupyter](https://img.shields.io/badge/Jupyter-ffffff?logo=Jupyter)
 [![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](#)
