@@ -21,7 +21,7 @@ Still learning, still breaking things, still Googling "why doesn't this work" mo
 - 🇮🇹 Based in Italy, grew up in Greece (fluent in Italian, Greek, and English)
 - 💼 Open to remote opportunities - junior roles, internships, or interesting projects
 - 🎯 Currently focused on becoming a better full-stack developer
-- 📧 Reach me on [Linkedin](https://linkedin.com/filippo-castagnola)
+- 📧 Reach me on [Linkedin](https://www.linkedin.com/in/filippo-castagnola/)
 
 
 
